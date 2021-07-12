@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HW-19-Budget-Trackers-ON-OFFline",
+    "aria-controls": "Budget Tracker",
+    "image": "https://i.postimg.cc/NfR3z9yW/HW-19img.png",
+    "alt": "link",
+    "deploy": "https://hw-19.herokuapp.com/",
+    "repo": "https://github.com/CoderLeE920/HW-19-Budget-Trackers-ON-OFFline"
+  },
+  {
+    "name": "03-Generate-A-Password",
+    "aria-controls": "Generate a Password",
+    "image": "https://i.postimg.cc/wvbZjKHK/03-javascript-homework-demo.png",
+    "alt": "link",
+    "deploy": "https://coderlee920.github.io/03-Generate-A-Password/",
+    "repo": "https://github.com/CoderLeE920/03-Generate-A-Password" 
+  },
+  {
+    "name": "Git-Music-Now-Project",
+    "aria-controls": "Git Music Now",
+    "image": "https://i.postimg.cc/nz78tz6r/screenshotgitmusic.png",
+    "alt": "link",
+    "deploy": "https://rlacer.github.io/Git-Music-Now-Project/",
+    "repo": "https://github.com/CoderLeE920/Git-Music-Now-Project"
+  }
+]
