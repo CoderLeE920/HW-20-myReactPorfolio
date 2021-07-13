@@ -36,16 +36,16 @@ function Header(props) {
                     </form>
                 </Col>
                 <Col>
-                    <p class="lead">Use these methods to check out my GitHub, LinkedIn, Resume, or send me an email.</p>
+                    <p class="lead">Please check out my GitHub, LinkedIn, Resume; feel free to send me an email.</p>
                     <div class="list-group">
-                        <a href="https://github.com/charlinelach"
+                        <a href="https://github.com/CoderLeE920"
                             class="list-group-item list-group-item-action list-group-item-light"
                             target="_blank">GitHub</a>
-                        <a href="https://www.linkedin.com/in/charlinelach/"
+                        <a href="https://www.linkedin.com/in/thai-lee-095655139"
                             class="list-group-item list-group-item-action list-group-item-primary" target="_blank">LinkedIn</a>
-                        <a href="https://drive.google.com/file/d/1mJ-AMPUf6BBGoZhbZ-QKwE61h6keoMDJ/view?usp=sharing" class="list-group-item list-group-item-action list-group-item-secondary"
+                        <a href="https://docs.google.com/document/d/1D-_KiH6929vhjk4K_a-D6ELR_osYh58-3z-mKRWw7z8/edit" class="list-group-item list-group-item-action list-group-item-secondary"
                             target="_blank">Resume</a>
-                        <a href="mailto:notmyemail@emailaddress.com"
+                        <a href="leethai56@outlook.com"
                             class="list-group-item list-group-item-action list-group-item-success">Email Me</a>
                     </div>
                 </Col>
