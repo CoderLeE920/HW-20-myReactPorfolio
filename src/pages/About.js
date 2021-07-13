@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../components/Container";
-import Card from "../components/Card/Card.js";
+import Card from "../components/Card/card.js";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import Header from "../components/Header/Header.js";

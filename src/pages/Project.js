@@ -1,6 +1,6 @@
 import React from "react";
 import ListGroup from "../components/ListGroup/ListGroup";
-import Card from "../components/Card/Card.js";
+import Card from "../components/Card/card.js";
 import Row from "../components/Row";
 import Col from "../components/Col";
 
