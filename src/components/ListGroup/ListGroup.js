@@ -2,7 +2,7 @@ import React from "react";
 import Col from "../Col";
 import "./style.css";
 
-function ListGroup() {
+function ListGroup(props) {
     return (
         <div>
             <Col size="xs-12 sm-12 md-4 lg-4">
