@@ -2,7 +2,7 @@
 
 ## Purpose
 - To create a Porfolio with React 
-![alt text](/gif/Thai's World.gif)
+![alt text](https://github.com/CoderLeE920/HW-20-myReactPorfolio/blob/main/gif/Thai's%20World.gif)
 
 ## Table or Contents
 * [Deployment](#deployment)
