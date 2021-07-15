@@ -2,6 +2,7 @@
 
 ## Purpose
 - To create a Porfolio with React 
+![alt text](/gif/Thai's World.gif)
 
 ## Table or Contents
 * [Deployment](#deployment)
@@ -15,7 +16,7 @@
 
 ## Deployment
 - Repo[here](https://github.com/CoderLeE920/HW-20-myReactPorfolio)
-- Heroku[here]()
+- Heroku[here](https://hw-20-react.herokuapp.com/)
 ## Code Used
 - React
 - Jquery
@@ -84,3 +85,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Last Words
 - feel free to used this code as a refernce/fork 
+- Still has a few bugs and will get them fixed as 
